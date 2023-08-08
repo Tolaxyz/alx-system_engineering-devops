@@ -1,2 +1,2 @@
 #!/bin/bash
-printenv $((64+64))/n
+echo $((TRUEKNOWLEDGE+128))/n
